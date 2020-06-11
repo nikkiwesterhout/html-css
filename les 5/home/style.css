@@ -1,0 +1,56 @@
+section{
+    width: 800px;
+    height: 200px;
+    background-color: black;
+}
+    
+.blok{
+    float: left;
+}
+
+#blokblauw { 
+    height: 192px;
+    width: 192px;
+    background-color: blue;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+#blokwit {
+    height: 92px;
+    width: 392px;
+    background-color: white;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 100px;
+    margin-top: 8px;
+}
+
+#blokwit1 {
+    height: 92px;
+    width: 392px;
+    background-color: white;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 100px;
+}
+
+#blokgeel{
+    height: 186px;
+    width: 86px;
+    background-color: yellow;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 208px;
+}
+
+#blokrood {
+    height: 186px;
+    width: 186px;
+    background-color: red;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 314px;
+}
