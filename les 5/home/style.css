@@ -20,21 +20,17 @@ section{
 
 #blokwit {
     height: 92px;
-    width: 392px;
+    width: 452px;
     background-color: white;
-    margin-right: 8px;
     margin-bottom: 8px;
-    margin-left: 100px;
     margin-top: 8px;
 }
 
 #blokwit1 {
     height: 92px;
-    width: 392px;
+    width: 452px;
     background-color: white;
     margin-right: 8px;
-    margin-bottom: 8px;
-    margin-left: 100px;
 }
 
 #blokgeel{
@@ -43,7 +39,8 @@ section{
     background-color: yellow;
     margin-right: 8px;
     margin-bottom: 8px;
-    margin-left: 208px;
+    margin-left: 8px;
+    margin-top: 8px;
 }
 
 #blokrood {
@@ -51,6 +48,63 @@ section{
     width: 186px;
     background-color: red;
     margin-right: 8px;
-    margin-bottom: 8px;
-    margin-left: 314px;
+    margin-top: 8px;
 }
+
+#blokblauw3 {
+    height: 50px;
+    width: 282px;
+    background-color: blue;
+    margin-right: 8px;
+    margin-top: 8px;
+}
+
+#blokwit4 {
+    height: 192px;
+    width: 292px;
+    background-color: white;
+    margin-bottom: 8px;
+}
+
+#blokblauw4 {
+    height: 192px;
+    width: 92px;
+    background-color: blue;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+#blokgeel3 { 
+    height: 92px;
+    width: 392px;
+    background-color: yellow;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+#blokrood3 {
+    height: 192px;
+    width: 292px;
+    background-color: red;
+}
+
+#blokwit5 {
+    height: 192px;
+    width: 20px;
+    background-color: white;
+    margin-right: 8px;
+    margin-left: 8px;
+ }
+
+ #blokwiit {
+    height: 192px;
+    width: 15px;
+    background-color: yellow;
+
+ }
+
+ #blokwiiit { 
+    height: 192px;
+    width: 15px;
+    background-color: yellow;
+ }
