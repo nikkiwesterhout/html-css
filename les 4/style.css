@@ -1,0 +1,138 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #D8E4C8;
+    margin-left: 100px;
+}
+
+h1 {
+    margin-left: 8px;
+}
+
+h3 {
+    margin-left: 8px;
+    font-weight: bold;
+    color: white;
+}
+
+main {  
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+/*p { 
+    margin-block-start: 8px;
+    margin-block-end: 8px
+} */
+
+/*div { 
+    display: block;
+}*/
+
+/*.blok{
+    float: left;
+} */
+
+.stap1 {font-weight: bold;} 
+.stap1 {font-size: 25px;}
+
+.stap2 {font-weight: bold;} 
+.stap2 {font-size: 25px;}
+
+.stap3 {font-weight: bold;}
+.stap3 {font-size: 25px;}
+
+.stap4 {font-weight: bold;}
+.stap4 {font-size: 25px;}
+
+
+.stap5 {font-weight: bold;}
+.stap5 {font-size: 25px;}
+
+.stap6 {font-weight: bold;}
+.stap6 {font-size: 25px;}
+
+.rest {
+    width: 400px;
+    height: 200px;
+    background-color: #D8E4C8 ; 
+    margin: 50px;
+}
+
+#download { 
+    height: 192px;
+    width: 220px;
+}
+
+#repository {
+    height: 192px;
+    width: 220px;
+}
+
+#VScodefiles { 
+    height: 192px;
+    width: 220px;
+}
+
+#htmlschrijven { 
+    height: 192px;
+    width: 220px;
+}
+
+#files { 
+    height: 192px;
+    width: 220px;
+}
+
+#push { 
+    height: 192px;
+    width: 220px;
+}
+
+img {
+    width: 80%;
+    image-rendering: auto;
+    align-items: right;
+    padding-left: 50px;
+}
+
+        .rest1 {
+            border-top: solid 1px black;
+            display: flex;
+            flex-direction: row;
+            padding-top: 18px;
+        }
+
+        .rest2 { 
+            border-top: solid 1px black;
+            display: flex;
+            flex-direction: row;
+            padding-top: 18px;
+        }
+
+        .rest3 { 
+            border-top: solid 1px black;
+            display: flex;
+            flex-direction: row;
+            padding-top: 18px;
+        }
+
+        .rest4 { 
+            border-top: solid 1px black;
+            display: flex;
+            flex-direction: row;
+            padding-top: 18px;
+        }
+
+        .rest5 { 
+            border-top: solid 1px black;
+            display: flex;
+            flex-direction: row;
+            padding-top: 18px;
+        }
+
+        .rest6 { 
+            border-top: solid 1px black;
+            display: flex;
+            flex-direction: row;
+            padding-top: 18px;
+        }
